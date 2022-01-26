@@ -1,0 +1,110 @@
+body{
+    font-size: 16px;
+    background-color: white;
+}
+html{
+    margin: 1rem;
+}
+.logo{
+    margin-right: 6rem;
+    font-size: 2rem;
+    font-weight: 600;
+}
+/* .items{
+    margin-left: 3rem;
+} */
+nav{
+    background-color:white !important;
+}
+button{
+    border: none !important;
+}
+.center-content{
+    margin: 1rem;
+    height: auto;
+}
+.easy{
+    padding: 5rem;
+    background-color: rgba(236, 236, 226, 0.953);
+}
+.easy h2{
+    font-size: 3rem;
+    font-weight: 900;
+    
+}
+.easy button{
+    background-color: black !important;
+}
+.center-content img{
+    object-fit: fill;
+    width: inherit;
+    height: 70vh !important;
+}
+.works{
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    margin: auto;
+}
+.works h3{
+    font-weight: 800;
+    padding-left: 4rem;
+}
+works p{
+    margin: 0;
+}
+.works #center{
+    padding-left: 4rem;
+    margin: 0;
+}
+.card-title{
+    text-align: center;
+}
+.card-body{
+    text-align: center;
+}
+.card{
+    border: none;
+}
+.cards h5{
+    font-weight: 800;
+}
+.form-inline{
+    margin-left: 40rem;
+}
+.download{
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+}
+.download button:hover{
+    background-color: black;
+    color: white;
+
+}
+.load{
+    padding-top: 7rem;
+}
+.first{
+    padding-top: 6rem;
+}
+.connect{
+    padding-bottom: 3rem;
+}
+.connect h2{
+    font-weight: 800;
+}
+.connect button{
+    border: 1px solid black !important;
+    border-radius: 10px;
+} 
+.connect button:hover{
+    background-color: black;
+    color: white;
+}
+.newletter{
+    margin: auto;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+.copy{
+    padding-top: 3rem;
+}
